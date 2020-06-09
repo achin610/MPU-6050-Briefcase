@@ -8,10 +8,10 @@ Once the code imported with the correct libraries and the circuit assembled prop
 code.
 
 Parts List:
-Arduino Uno 
-Jumper Cables
-GY521 MPU6050 Gyroscope
-RGB LED
-Mini Servo
-Buzzer
+Arduino Uno, 
+Jumper Cables,
+GY521 MPU6050 Gyroscope,
+RGB LED,
+Mini Servo,
+Buzzer,
 Buttons (x2)
