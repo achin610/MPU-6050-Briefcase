@@ -6,3 +6,12 @@ MPU6050 libraries using the following link. https://github.com/jrowberg/i2cdevli
 
 Once the code imported with the correct libraries and the circuit assembled properly, there should be no issues uploading and running the
 code.
+
+Parts List:
+Arduino Uno 
+Jumper Cables
+GY521 MPU6050 Gyroscope
+RGB LED
+Mini Servo
+Buzzer
+Buttons (x2)
